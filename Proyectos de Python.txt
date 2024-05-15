@@ -1,0 +1,11 @@
+		Proyectos de Python:
+
+1-Herramienta de monitoreo de red
+2-Sistema de gestión de copias de seguridad
+3-Panel de control de servicios y aplicaciones
+4-Sistema de inventario de hardware y software
+5-Herramienta de gestión de usuarios y permisos
+6-Generador de informes de seguridad
+7-Herramienta de auditoría de sistemas y redes
+8-Sistema de gestión de incidencias y tickets (Lo que hacia en la empresa)
+un sistema que administra redes 
